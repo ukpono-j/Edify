@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "buster";
+    src: url(../components/a-buster-down-cufonfonts/BusterDown-ow950.otf);
+}
+.messenger{
+    background-color: #1e1c22;
+    height: 100vh;
+    /* border: 1px solid green; */
+    padding: 0px 0px 0px 54px;
+    width: 100%;
+    color: white;
+}
+.messenger_container{
+    /* border: 1px solid red; */
+    height: 100vh;
+}
+.messenger_container h1{
+    padding: 30px ;
+    font-family: "Roboto";
+    font-size: 30px;
+}
